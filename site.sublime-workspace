@@ -1,0 +1,192 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/purnur/Documents/GitHub/purnur-schneider.github.io"
+	],
+	"file_history":
+	[
+		"/Users/purnur/Documents/Yale Financial Markets/7 Modern Finance",
+		"/Users/purnur/Documents/Yale Financial Markets/7 Nonprofits",
+		"/Users/purnur/Documents/Yale Financial Markets/6 Money Managers",
+		"/Users/purnur/Documents/Yale Financial Markets/Security underwriting",
+		"/Users/purnur/Documents/Yale Financial Markets/6 Public Finance",
+		"/Users/purnur/Documents/Yale Financial Markets/6 Investment Banks",
+		"/Users/purnur/Documents/Yale Financial Markets/5 Options",
+		"/Users/purnur/Documents/Yale Financial Markets/5 Futures",
+		"/Users/purnur/Documents/Yale Financial Markets/4 Regulation",
+		"/Users/purnur/Documents/Yale Financial Markets/4 Real Estate",
+		"/Users/purnur/Documents/Yale Financial Markets/3 Stock Market",
+		"/Users/purnur/Documents/Yale Financial Markets/3 Fixed Income",
+		"/Users/purnur/Documents/Yale Financial Markets/2 Behavioral Finance",
+		"/Users/purnur/Documents/Yale Financial Markets/2 EMH",
+		"/Users/purnur/Documents/Yale Financial Markets/2 Innovation",
+		"/Users/purnur/Documents/Yale Financial Markets/1 Diversification",
+		"/Users/purnur/Documents/Yale Financial Markets/1 Insurance",
+		"/Users/purnur/Documents/Yale Financial Markets/1 VAR and Stress Tests",
+		"/Users/purnur/Documents/Yale Financial Markets/1 Financial Markets",
+		"/Users/purnur/Documents/Yale Financial Markets/Exchanges,Brokers,Dealers,ClearingHouses ",
+		"/Users/purnur/Documents/Yale Financial Markets/Money Managers",
+		"/Users/purnur/Documents/Yale Financial Markets/Financial Markets",
+		"/Users/purnur/Documents/Security underwriting",
+		"/Users/purnur/Documents/python/InterestCalc.py"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "site.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
